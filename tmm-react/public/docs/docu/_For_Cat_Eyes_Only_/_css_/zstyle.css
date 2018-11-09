@@ -1,0 +1,58 @@
+body {background-color:#FFFFFF; background-image:url(../zgraphics/marb082.jpg);}
+h2 {position:relative; top:-170px; text-align:center; 
+	color:black; font-family:Georgia,serif;}
+#OTshalom {position:relative; top:230px; width:650px; border: 2px inset #33CCCC;}
+#indexpara {position:absolute; top:160px; left:160px; margin:10px; display:block; 
+	font-family:Georgia,serif; width:625px;}
+#indexemp {position:absolute; top:420px; left:160px; margin:10px; display:block; 
+	font-family:Georgia,serif; width:625px;}
+#indexpara ul {list-style-type:circle;}
+#indexpara th, td {text-align:left; vertical-align:top; padding:3px 3px 6px 3px;} 
+.aboutrows {background-color:white;}
+.nav{}
+.nav ul{list-style-type:none; padding:0px; margin:0px; overflow:hidden;}
+.nav li{float:left; display:inline;}
+.nav a:link{display:block; width:115px; height:40px; padding: 4px; font-family:Georgia,serif;
+	color:#33CCCC; background-image:url(../zgraphics/marb082.jpg);
+	font-weight:bold; text-align:center; text-decoration:none; border: 4px inset #33CCCC;}
+.nav a:visited{display:block; width:115px; height:40px; padding: 4px; font-family:Georgia,serif;
+	color:#33CCCC; background-image:url(../zgraphics/marb082.jpg);
+	font-weight:bold; text-align:center; text-decoration:none; border: 4px inset #33CCCC;}
+.nav a:hover{color:black; text-decoration:underline; background-image:url(../zgraphics/comp023.gif);}
+.nav a:active{color:red; text-transform:lowercase; background-image:url(../zgraphics/comp023.gif);
+}
+.title {width:785px;text-align:center;}
+.title h1{color:black; border:3px inset #33CCCC;
+	font-family:Georgia,serif; background-image:url(../zgraphics/marb082.jpg);
+}	
+.menu {}
+.menu ul{list-style-type:none; padding:0px; margin:0px;}
+.menu li{}
+.menu a:link{display:block; width:125px; height:50px; font-family:Georgia,serif;
+	color:#33CCCC; background-color:white;
+	font-weight:bold; text-align:center; padding-top:6px; padding-bottom:6px; 
+	border-bottom:1px solid silver; text-decoration:none;}
+.menu a:visited{display:block; width:125px; height:50px; font-family:Georgia,serif;
+	color:#33CCCC; background-color:white;
+	font-weight:bold; text-align:center; padding-top:6px;padding-bottom:6px; 
+	border-bottom:1px solid silver; text-decoration:none;}
+.menu a:hover{color:black; text-decoration:underline; background-color:silver;
+	background-image:url(../zgraphics/comp023.gif);}
+.menu a:active{color:red; background-color:#99CCCC;
+	background-image:url(../zgraphics/comp023.gif);
+}
+.text{background-color:silver;}
+.content1 {width:800px;	min-height:1000px; 
+	background-color:#99CCCC; padding:5px 5px 5px 5px; border:6px outset #33CCCC;}
+.content2 {position:absolute; left:845px; top:7px; min-width:320px; max-width:425px; min-height:250px; 
+	padding:5px 5px 5px 5px; border:6px outset #33CCCC;}
+.content3 {position:absolute; left:845px; top:290px; width:320px;  min-height:200px;
+	padding:5px 5px 5px 5px; border:6px outset #33CCCC;}	
+.primorosa{background-color:silver; padding:10px 20px 0px 20px; color: #000000;}
+.footer{text-align:center; background-color:silver;
+	font-size: 0.9em; font-style: italic; padding-top: 20px; padding-bottom: 20px;}
+.link{}
+.link a {text-decoration:none;}
+.link a:visited {}
+.link a:hover{}
+.link a:active{}

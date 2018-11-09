@@ -1,0 +1,23 @@
+{
+  "name": "new-r",
+  "version": "1.0.0",
+  "description": "React 15, 16; React-D3; Reaact FireBase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasm1/NEW_REACT.git"
+  },
+  "keywords": [
+    "react",
+    "firebase"
+  ],
+  "author": "t_m_m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasm1/NEW_REACT/issues"
+  },
+  "homepage": "https://github.com/thomasm1/NEW_REACT#readme"
+}

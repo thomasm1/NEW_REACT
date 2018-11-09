@@ -1,0 +1,15 @@
+
+.rightcol {
+	float: right;
+	width: 300px;
+	color: white;
+	height:300px;
+	background-color: teal;
+}
+.leftcol {
+	background-color: red;
+	float:left;
+	color: white;
+	height: 300px;
+	width: 300px;
+}
