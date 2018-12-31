@@ -1,0 +1,10 @@
+﻿ID,source,target,EventText,TimeStamp,amount
+1,ORIGIN-HASH,oiZCJwLg7R0ransIXL/zBuVpJtCYPRqPvEx1w4fe6b4=,Production record Offering ID: 1 Date: Dec 27 2017 12:00AM Amount: 12000.00000000 Timestamp: Jan  3 2018  5:13PM,,12000
+2,oiZCJwLg7R0ransIXL/zBuVpJtCYPRqPvEx1w4fe6b4=,wcOaRln3CPACai1wWikkgRki5m+KEtbsPKpuOHrWeCs=,Asset Issuance Source: Xpansiv - Issuance Destination: Carbon Creek Energy - Holding Timestamp: Dec 27 2017 12:0 Amount: 12000.00000,,12000
+3,wcOaRln3CPACai1wWikkgRki5m+KEtbsPKpuOHrWeCs=,0QTsHDCudMA6+LzvWyerk8yvUtxt/DVaEphrZTR7ec4=,Production record Offering ID: 1 Date: Dec 28 2017 12:00AM Amount: 13005.00000000 Timestamp: Jan  3 2018  5:13PM,,13005
+4,0QTsHDCudMA6+LzvWyerk8yvUtxt/DVaEphrZTR7ec4=,fu9yD6GsLOsue6TEyNSco8D+o+B2doGgFXkwogOWFUs=,Asset Issuance Source: Xpansiv - Issuance Destination: Carbon Creek Energy - Holding Timestamp: Dec 28 2017 12:0 Amount: 13005.00000,,13005
+5,fu9yD6GsLOsue6TEyNSco8D+o+B2doGgFXkwogOWFUs=,0AHO24N6/08vqy/FZZduR/lLslExE/oW3vuZVm4E6oA=,Production record Offering ID: 1 Date: Dec 29 2017 12:00AM Amount: 12345.00000000 Timestamp: Jan  3 2018  5:13PM,,14981
+6,0AHO24N6/08vqy/FZZduR/lLslExE/oW3vuZVm4E6oA=,RFiHPLhIQcvO/zIjVyeUP6menodW4IGK9htaG6xDo78=,Asset Issuance Source: Xpansiv - Issuance Destination: Carbon Creek Energy - Holding Timestamp: Dec 30 2017 12:0 Amount: 14981.00000,,14981
+7,RFiHPLhIQcvO/zIjVyeUP6menodW4IGK9htaG6xDo78=,xbKLKrclkhwRopi9dHYcpQ86cp8lNyKfNO1iWT6BF2s=,Asset Holding Release Source: Carbon Creek Energy - Holding Destination: Carbon Creek Energy - Trading Timestamp: Dec 31 2017 12:0 Amount: 29500.00000,,29500
+8,xbKLKrclkhwRopi9dHYcpQ86cp8lNyKfNO1iWT6BF2s=,KvaGEhQ9wcRfGVnEZ9abyLTeBWQRcszkQDaLKkL1t7E=,Asset Trade Source: Carbon Creek Energy - Trading Destination: Mom's Organic Market - Holding Timestamp: Jan  2 2017 12:0 Amount: 13000.00000,,13000
+

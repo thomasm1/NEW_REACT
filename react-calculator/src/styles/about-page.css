@@ -1,0 +1,8 @@
+.alt-header {
+  color: rgb(13, 44, 92);
+}
+
+#blog {
+  min-height:500px;
+  background-color:lightblue;
+}

@@ -1,0 +1,184 @@
+
+{
+
+  "nodes" : [
+    {
+      "id":"0",
+      "label":"Carbon Creek LEI (FracFree) Gas Dec 2017 Vintage: Production 1",
+      "metadata":{
+        "description": "FracFree Natural Gas means natural gas sourced from a well that does not involve either one of the following:n1) any process that exceeds fracture parting pressure o a subsurface formation and/orn2) any injection of water, chemicals and proppant at high pressure to achieve placement of proppant into subsurface formation.",
+        "production_date":"2017-12-17",
+        "amount":"12000",
+        "hash":"VDVM65RI4tM4mBabYvzWT/Q0hoHlgKoH6z3Y3RyxhTE="
+      }
+  },
+  {
+    "id":"1",
+    "label":"Carbon Creek Energy - Holding Account",
+    "metadata":{
+      "amount": "12000",
+      "date":"2017-12-27",
+      "hash":"n/a"
+    }
+  },
+  {
+    "id":"2",
+    "label":"Carbon Creek Energy - Trading Account",
+    "metadata":{
+      "amount": "12000",
+      "date":"2017-12-31",
+      "hash":"n/a"
+    }
+  },
+  {
+      "id":"3",
+      "label":"Mom's Organic Market - Holding Account",
+      "metadata":{
+        "amount": "12000",
+        "date":"2017-01-02",
+        "hash":"n/a"
+      }
+    },
+  {
+      "id":"4",
+      "label":"Mom's Organic Market - Retired Account",
+      "metadata":{
+          "amount": "810",
+          "date":"2017-01-09",
+          "hash":"n/a"
+        }
+  },
+  {
+      "id":"5",
+      "label":"Mom's Organic Market - Holding Account",
+      "metadata":{
+              "amount": "11190",
+              "date":"2017-01-09",
+              "hash":"n/a"
+            }
+  },
+  {
+      "id":"6",
+      "label":"Mom's Organic Market - Trading Account",
+      "metadata":{
+              "amount": "1660",
+              "date":"2017-01-09",
+              "hash":"n/a"
+            }
+  },
+  {
+      "id":"7",
+      "label":"Mom's Organic Market - Holding Account",
+      "metadata":{
+              "amount": "9530",
+              "date":"2017-01-09",
+              "hash":"n/a"
+            }
+  },
+  {
+      "id":"8",
+      "label":"Mom's Organic Market - Retired Account",
+      "metadata":{
+              "amount": "3410",
+              "date":"2017-01-09",
+              "hash":"n/a"
+            }
+  },
+  {
+      "id":"9",
+      "label":"Mom's Organic Market - Holding Account",
+      "metadata":{
+              "amount": "6930",
+              "date":"2017-01-09",
+              "hash":"n/a"
+            }
+  }
+],
+"links" : [
+  { "source":"0",
+    "target":"1",
+    "directed":"true",
+    "label":"Issuance",
+    "metadata":{
+      "hash":"wcOaRln3CPACai1wWikkgRki5m+KEtbsPKpuOHrWeCs="
+    }
+  },
+  {
+    "source": "1",
+    "target": "2",
+    "directed":"true",
+    "label": "Release",
+    "metadata": {
+      "hash": "xbKLKrclkhwRopi9dHYcpQ86cp8lNyKfNO1iWT6BF2s="
+    }
+  },
+  {
+    "source": "2",
+    "target": "3",
+    "directed": "true",
+    "label": "Trade",
+    "metadata": {
+      "hash": "KvaGEhQ9wcRfGVnEZ9abyLTeBWQRcszkQDaLKkL1t7E="
+    }
+  },
+  {
+    "source": "3",
+    "target": "4",
+    "directed": "true",
+    "label": "Retire",
+    "metadata": {
+      "hash": "1GE6fgWc0MhpNUEgPpFW86HYCrfr2+du2Sb2mvZ+PC4="
+    }
+  },
+  { "source":"3",
+    "target":"5",
+    "directed":"true",
+    "label":"Retire",
+    "metadata":{
+      "hash":"1GE6fgWc0MhpNUEgPpFW86HYCrfr2+du2Sb2mvZ+PC4="
+  }
+  },
+  { "source":"5",
+    "target":"6",
+    "directed":"true",
+    "label":"Release",
+    "metadata":{
+      "hash":"7olBfs93d8YfQhLRfIUkKoE2ddVEwjGW5X+7DwdjPRk="
+  }},
+  { "source":"5",
+    "target":"7",
+    "directed":"true",
+    "label":"Release",
+    "metadata":{
+      "hash":"7olBfs93d8YfQhLRfIUkKoE2ddVEwjGW5X+7DwdjPRk="
+  }
+  },
+  {
+    "source": "4",
+    "target": "8",
+    "directed": "true",
+    "label": "Retire",
+    "metadata": {
+      "hash": "fDZ8Xfkn86sz4hTYA/MsvtQ68MnK1Z83OTc3ts6usc4="
+    }
+  },
+  {
+    "source": "4",
+    "target": "9",
+    "directed": "true",
+    "label": "Retire",
+    "metadata": {
+      "hash": "fDZ8Xfkn86sz4hTYA/MsvtQ68MnK1Z83OTc3ts6usc4="
+    }
+  },
+  {
+    "source": "8",
+    "target": "9",
+    "directed": "true",
+    "label": "Retire",
+    "metadata": {
+      "hash": "fDZ8Xfkn86sz4hTYA/MsvtQ68MnK1Z83OTc3ts6usc4="
+    }
+  }
+]
+  }

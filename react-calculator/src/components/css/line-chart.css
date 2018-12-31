@@ -1,0 +1,14 @@
+ 
+path {
+  stroke: red;
+  stroke-width: 2;
+  fill: white;
+}
+
+.axis path,
+.axis line {
+  fill: yellow;
+  stroke: darkblue;
+  stroke-width: 2;
+  shape-rendering: crispEdges;
+}

@@ -1,0 +1,62 @@
+{
+    "shortname" : "13,000 FracFree Units",
+    "longname" : "13,000 Vintage 2017 FracFree Natural Gas Certificates generated during the period January 1, 2017 – December 31, 2017",
+    "description" : "FracFree Natural Gas means natural gas sourced from a well that does not involve either one of the following: 1) any process that exceeds fracture parting pressure of a subsurface formation and/or 2) any injection of water, chemicals and proppant at high pressure to achieve placement of proppant into subsurface formation.",
+    "history":[
+        { 
+            "uid" : "MHP47vgWlElleV53PkdO",
+            "trans_date" : "2017-12-26",
+            "trans_type" : "Issue",
+            "enterprise" : "Xpansiv",
+            "unit_amt" : "295554"
+        },
+        { 
+            "uid" : "MHP47vgWlElleV53PkdO",
+            "trans_date" : "2017-12-26",
+            "trans_type" : "Transfer",
+            "enterprise" : "Gas Company",
+            "unit_amt" : "295554"
+        },
+        { 
+            "uid" : "MHP47vgWlElleV53PkdO",
+            "trans_date" : "2017-12-26",
+            "trans_type" : "Transfer",
+            "enterprise" : "Marketplace",
+            "unit_amt" : "295554"
+        },
+        { 
+            "uid" : "MHP47vgWlElleV53PkdO",
+            "trans_date" : "2017-12-26",
+            "trans_type" : "Retire",
+            "enterprise" : "Electic Company",
+            "unit_amt" : "295554"
+        }
+    ],
+    "attributes":[
+        {
+            "Gas_Type" : "Methane",
+            "Volume" : "285000"
+        },
+        {
+            "Gas_Type" : "CO2",
+            "Volume" : "5000"
+        },
+        {
+            "Gas_Type" : "Nitrogen",
+            "Volume" : "3000"
+        },
+        {            
+            "Gas_Type" : "Propane",
+            "Volume" : "2000"
+        },
+        {
+            "Gas_Type" : "Butane",
+            "Volume" : "300"
+        },
+        {
+            "Gas_Type" : "Ethane",
+            "Volume" : "254"
+        }
+    ]
+
+}

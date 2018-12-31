@@ -1,0 +1,16 @@
+body {
+	font-family:baskerville,times-roman;
+	font-size:14px;
+	background:lightblue;
+	color: blue;
+}
+h2 {
+	color:midnightblue;
+}
+h3 {
+	text-align:right;
+}
+img.mid {margin: 0px 40px 0px 40px;
+border:2px solid blue;
+padding:5px;
+}

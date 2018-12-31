@@ -1,0 +1,255 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>The Wizard of OZ by Frank L. Baum</title>
+<meta charset="utf-8">
+<link href="css/oz.css" rel="stylesheet" type="text/css"> 
+</head>
+<body>
+
+<h2 align=center style='text-align:center;line-height:200%'><b
+style='mso-bidi-font-weight:normal'><span style='font-style:normal'>Introduction<o:p></o:p></span></b></h2>
+
+<p class=MsoNormal style='line-height:200%'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoBodyTextIndent style='line-height:200%'><span style='mso-bidi-font-size:
+12.0pt;line-height:200%'>Legal and socio-economic explanations for the lag in
+cultural assimilation within immigrant neighborhood enclaves remains divided
+between 21<sup>st</sup> century sociology, based on economics-driven behavior,
+versus the 1900’s-esque xenophobia of the Samuel Huntington doctrine, which
+asserts “globalist” historical ethno-nationalism.<span
+style='mso-spacerun:yes'>  </span>This blog discusses different legal and
+socio-economic aspects faced by migrants upon arrival into the U.S. <span
+style='mso-spacerun:yes'> </span>I thus highlight these explanations for
+contemporary cultural assimilation patterns in contrast to an increasingly well-defined
+nationalist viewpoint, exemplified by the current White House administration’s legal
+actions on immigration policy—a policy soon to be contested between the 9 recently-united
+Supreme Court Justices. <span style='mso-spacerun:yes'> </span><span
+style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
+
+<p class=MsoBodyTextIndent style='line-height:200%'><span style='mso-bidi-font-size:
+12.0pt;line-height:200%'>First, a word on the issues and the stakes of the modern
+American immigration policy, and the science underpinning the debates. Social
+science begins with the collection of individual data on immigrants’ ethnic
+origins and their current legal and socio-economic circumstance. The opposing
+view dismisses legal and socio-economic data, in favor of the argument that immigrant
+behavior is <i style='mso-bidi-font-style:normal'>determined</i> by the immigrant’s
+nation of origin, and thus genealogical roots and ethnic phenotype.<span
+style='mso-spacerun:yes'>  </span>This latter view is a snapshot of the
+post-Reconstruction, 1900’s-era American belief system – a view that predates
+contemporary psychology of Skinner, the sociology of Bourdieu, and behavioral economics
+of Milton Friedman.<span style='mso-spacerun:yes'>  </span>Since the era of
+modern social science, structure-based immigrant behavior is, in a nutshell, operationalized
+by two variables: legality of stay (as determined by the Immigration and
+Naturalization Service) and socio-economic ability, i.e. structural needs,
+wants, and goals, and is operationalized by occupational/income-earning power,
+educational achievement, and expected duration of stay in the host
+country.<span style='mso-spacerun:yes'>   </span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:.5in;line-height:200%'>Unfortunately, scientific
+data collection on migrants is made difficult by incognito behavior depending on
+legality of stay and transience dependent on social-economics.<span
+style='mso-spacerun:yes'>  </span>First, it is difficult to maintain a
+statistically honest survey results without anonymity due to constant fear of
+INS exposure. Second, scientific observation cannot keep current with the
+constant legal and socio-economic flux of an immigrant with high-turnover of
+residence address and occupation/income.</p>
+
+<p class=MsoNormal style='text-indent:.5in;line-height:200%'>AI technology and
+the social media landscape does not resolve the fundamental hurdles faced by
+the social science of immigrant assimilation. However, sociology of immigration
+is the best hope to seal the casket on the 1900’s, post-Darwinist focus on
+ethnic identity as the principle determinant of immigrants’ cultural
+assimilation. </p>
+
+<p class=MsoNormal style='line-height:200%'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoSubtitle style='line-height:200%'>Literature on the Immigration
+Debate</p>
+
+<h1 style='line-height:200%'>Propensity of Assimilation is Based on Ethnicity
+vis-à-vis Huntington <span style='font-style:normal'><o:p></o:p></span></h1>
+
+<h1 style='text-indent:.5in;line-height:200%'><span style='font-style:normal'>In
+the past, U.S. immigration has been likened to the Tomato Soup analogy, that
+is, tomatoes provide the substance, but immigration provides the herbs and
+spice.<span style='mso-spacerun:yes'>  </span>All immigrants regardless of
+origin and socio-economic circumstance find a niche in American society,
+eventually adopting its culture over one or two generations.<span
+style='mso-spacerun:yes'>  </span>However, Huntingtonian doctrine asserts an
+exception to the rule:<span style='mso-spacerun:yes'>  </span>Mexican
+immigration differs from past and present immigration trends.<span
+style='mso-spacerun:yes'>  </span>The generalization is that certain ethnic
+groups are less willing to culturally assimilate.<span
+style='mso-spacerun:yes'>  </span>According to this theoretical viewpoint, the
+ethnic identity and culture of the incoming Mexican immigrant repudiates, like
+oil with water, fundamental aspects of American culture such as language,
+values, and norms.<o:p></o:p></span></h1>
+
+<h1 style='text-indent:.5in;line-height:200%'><span style='font-style:normal'>For
+this cause, Huntington predicts a potential bifurcation, again like oil with
+water, of American society.<span style='mso-spacerun:yes'>  </span>This
+predicted bilingual and bicultural division will ultimately lead to a
+bicognitive American self-identity and culture.<span style='mso-spacerun:yes'> 
+</span>&quot;Unlike past immigrant groups,&quot; Huntington writes,
+&quot;Mexicans and other Latinos have not assimilated into mainstream U.S.
+culture, forming instead their own political and linguistic enclaves ... and
+rejecting the Anglo-Protestant values that built the American dream”
+(Huntington, 2004).<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></h1>
+
+<p class=MsoBodyTextIndent style='line-height:200%'><span style='mso-bidi-font-style:
+italic'>Based on two principles of national origin, immigrants of Mexican
+origin are less likely to culturally assimilate than other immigrant groups.
+The</span> first principle is that of the uniqueness of Mexican immigration
+based on geography and history.<span style='mso-spacerun:yes'>  </span>Six
+facts differentiate Mexican immigration from other waves of past and present
+immigrant groups, thereby precluding comparison to historical precedent.<span
+style='mso-spacerun:yes'>  </span></p>
+
+<p class=MsoBodyTextIndent style='line-height:200%'>These facts are, 1) the
+ratio of geographical contiguity and economic disparity between the sending
+nation and the host nation, 2) the number and rate of immigration, 3)
+preponderant illegality of entrance and stay, 4) inter-state migrating pattern
+and formation of Mexican-only regional concentrations, 5) political and
+economic entente between sending nation and host nation, and 6) historical
+relevance that most southwest territory was previously under Mexican rule.<span
+style='mso-spacerun:yes'>  </span>According to Huntington, these national facts
+about Mexican immigrants lessen the <span style='mso-bidi-font-style:italic'>need,
+in theory,</span> for Mexican immigrants to assimilate to American
+culture.<span style='mso-spacerun:yes'>  </span>Huntington’s contention is that
+because of national origin, the Mexican immigrant is less likely to adopt
+American values than other immigrant groups, regardless of the structural
+circumstance of the individual.<span style='mso-spacerun:yes'>  </span></p>
+
+<p class=MsoBodyTextIndent style='line-height:200%'>The second principle is the
+lack of compatibility of Mexican immigrants to culturally assimilate compared
+to other immigrating groups into the U.S.<span style='mso-spacerun:yes'> 
+</span>Huntington writes that “many Mexican-American immigrants simply do not
+appear to identify primarily with the United States” (Huntington, 2004).<span
+style='mso-spacerun:yes'>  </span>Huntington claims that the two cultures are
+hardly compatible on many levels.<span style='mso-spacerun:yes'>  </span>For
+example, Anglo-Protestant culture is very individualistic and Mexican culture
+is community-oriented.<span style='mso-spacerun:yes'>  </span>Furthermore,
+Huntington asserts that career and ambition are high priorities of
+Anglo-Protestant culture, while family and leisure are prioritized in Mexican
+culture.<span style='mso-spacerun:yes'>  </span>For this reason, the Mexican
+immigrant is not willing to assimilate to the lifestyle and cultural norms of
+the typical American.</p>
+
+<p class=MsoBodyTextIndent style='line-height:200%'>The indicators of lifestyle
+and American cultural norms are as follows: 1) Sole usage of the English
+language in public, 2) desire for high educational goals (especially among the
+youth), 3) continual desire for higher occupational goals (managerial
+positions), 4) continual desire for greater income, 5) intermarriage, 6)
+self-identification as American, 7) desire for naturalization and citizenship.<span
+style='mso-spacerun:yes'>  </span></p>
+
+<p class=MsoBodyTextIndent style='line-height:200%'>According to the
+Huntingtonian doctrine, Mexican Americans are less willing to pursue these
+goals than other immigrant groups.<span style='mso-spacerun:yes'>  </span>The
+primary reason is the ethno-cultural difference between the national culture of
+Mexico and the national culture of the U.S.<span style='mso-spacerun:yes'> 
+</span>For example, Samuel Huntington writes, &quot;the cultural division
+between Hispanics and Anglos could replace the racial division between blacks
+and whites as the most serious cleavage in U.S. society&quot; (Huntington,
+2004).<span style='mso-spacerun:yes'>  </span>It is a common subject among
+political analysts that cultures from certain ethnic groups have differing <span
+style='mso-bidi-font-style:italic'>compatibility</span> with American
+culture.<span style='mso-spacerun:yes'>  </span>For example, South Asians
+(Indians, Bangladeshi, and Pakistanis) assimilate more quickly because their
+culture, through history, is more compatible with Anglo-Protestant
+culture.<span style='mso-spacerun:yes'>  </span>Upon arrival, they are already
+highly fluent in English and are familiar with Anglo-Protestant culture because
+of British colonial influence (Kurlantzick, 2002).</p>
+
+<p class=MsoNormal style='text-indent:.5in;line-height:200%'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='line-height:200%'><i style='mso-bidi-font-style:normal'>Socio-Economic
+Status as Component of Structural Circumstance</i></p>
+
+<p class=MsoNormal style='text-indent:.5in;line-height:200%'>Current U.S.
+immigrants arrive with very disparate legal and socio-economic
+circumstances.<span style='mso-spacerun:yes'>  </span>These two indicators of
+structural circumstance determine the course of the immigrants’ stay.<span
+style='mso-spacerun:yes'>  </span>Accordingly, they determine the pattern of
+cultural assimilation for each immigrant and their ability to attain the same
+status and culture as the typical, middle-class American (Suarez-Orozco,
+2000).<span style='mso-spacerun:yes'>  </span>Cultural assimilation follows
+hand-in-hand with upward career mobility.<span style='mso-spacerun:yes'> 
+</span>“[Assimilation] is the cumulative byproduct of choices made by
+individuals seeking to take advantage of opportunities to improve their social
+situations” (Alba, 1995).<span style='mso-spacerun:yes'>  </span></p>
+
+<p class=MsoNormal style='text-indent:.5in;line-height:200%'>Interestingly, the
+current immigrant arrives in an economic job market that is highly
+segregated.<span style='mso-spacerun:yes'>  </span>Using an hourglass metaphor,
+there is either “a well-remunerated, knowledge-intensive economic sphere [or] a
+service economy where low-skilled and semi-skilled workers continue to lose
+ground in terms of real wages, benefits, and security. Therefore immigrants
+fall into one or the other labor market” (Suarez-Orozco, 2000). It follows that
+immigrant groups are statistically divided along the same line as the economic
+and educational development of the nation of origin.</p>
+
+<p class=MsoNormal style='text-indent:.5in;line-height:200%'>The U.S. immigrant
+from any national origin falls into two very different structural categories
+upon arrival.<span style='mso-spacerun:yes'>  </span>They range from highly
+skilled to unskilled and poorly educated, These circumstances strongly affect
+the immigrant experience and subsequent pattern of assimilation (Portes and
+Rumbaut, 1996). The lesser-skilled workers have the only choice of accepting
+jobs that offer no upward mobility and their housing is forced into urban,
+ethnically segregated neighborhoods.<span style='mso-spacerun:yes'>  </span>The
+highly skilled workers, with their education and language ability, are offered
+jobs that support a work and residence lifestyle that involves interaction with
+middle-class America, while at the same time prospering cultural
+assimilation.<span style='mso-spacerun:yes'>  </span>For this reason, Portes
+and Rumbaut (2001) identify two prominent types of immigrant assimilation. The
+first type is able to adopt mainstream American customs, speaks English, and is
+upwardly mobile within one or two generations.<span style='mso-spacerun:yes'> 
+</span>The second type, based on socio-economic circumstances, acculturates to
+inner-city subcultures, low education level and labor market, even after
+several generations.<span style='mso-spacerun:yes'>  </span></p>
+
+<p class=MsoNormal style='text-indent:.5in;line-height:200%'><o:p>&nbsp;</o:p></p>
+
+<h1 style='line-height:200%'>Expectation of Stay and Legality as Component of
+Structural Constraint </h1>
+
+<p class=MsoBodyTextIndent style='line-height:200%'>In the past, immigrants had
+few opportunities to communicate, visit, or even return to the sending nation,
+thereby facilitating the process of cultural assimilation.<span
+style='mso-spacerun:yes'>  </span>Expected length of stay and naturalization of
+the immigrant in the host nation is an essential element in the immigrant’s
+desire to assimilate.<span style='mso-spacerun:yes'>  </span>If the immigrant
+plans to stay temporarily in the host nation, there is less need to learn the
+culture of the host nation (Guarnizo, 2003).<span style='mso-spacerun:yes'> 
+</span>For example, one in five Mexican immigrants will choose to acquire
+American citizenship (Chavez, 1998).<span style='mso-spacerun:yes'> 
+</span>Guarnizo says that propensity to engage in entrepreneurial ventures
+varies systematically with the socially-expected duration (SED) of
+migration.<span style='mso-spacerun:yes'>  </span>In other words, temporary
+SED’s<span style='mso-spacerun:yes'>  </span>“preserve ties with the country
+and community of origin.”<span style='mso-spacerun:yes'>  </span>Of course, SED
+is primarily affected by legality of stay and the option to naturalize.<span
+style='mso-spacerun:yes'>  </span>Whether the immigrant works illegally, holds
+a temporary worker visa or is naturalized has a tremendous impact on the
+immigrant’s SED. </p>
+
+<p class=MsoNormal style='text-indent:.5in;line-height:200%'>Because of mass
+transportation, transnationalism has revolutionized the concept of the
+immigration process by invalidating the traditional “clean break” assumption
+globalized communication and information technologies immigrants are no longer
+tied to one country (Suarez-Orozco, 2000).<span style='mso-spacerun:yes'> 
+</span>Furthermore, developing nations support dual-nationality in order to
+encourage monetary remittances from former emigrants temporarily residing in
+other nations.<span style='mso-spacerun:yes'>  </span>Developed nations
+encourage temporary worker immigrants in order to fill gaps in labor
+market.<span style='mso-spacerun:yes'>  </span>These factors affect both the
+expectation of stay and the legality question among immigrants into the United
+States.<span style='mso-spacerun:yes'>  </span>The bottom line is that
+immigrants that stay temporarily or expect to be deported for legal reasons are
+not likely to assimilate into American culture.<span style='mso-spacerun:yes'> 
+</span></p>
+
+</body>
+</html>

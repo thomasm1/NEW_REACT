@@ -1,0 +1,28 @@
+body {color: black; background-image:url(../graphics/metal003.gif); font-family: "times new roman"; }
+#hyp { text-decoration: none;}
+#hyp a {text-decoration: none;}
+#hyp a:visited { color: #000000;}
+#hyp a:hover { color: red;}
+#hyp a:active { color: green;}
+h1 {text-align: center; background-color: silver; border: 6px inset #999999;}
+.home {background-color: silver; border: 4px inset #999999; padding-left: 10px; width: 120px;}
+
+.container0 {position: absolute; left: 20px; top: 20px; width: 60px; min-height: 3000px; 
+	background-color: #FAFAD2; padding-left: 3px; padding-right: 3px; border: 8px outset #999999;}
+.container0 ul {list-style-type: none; padding: 0px; font-size: small; text-align: center;}
+.container0 li { margin-bottom: 5px;}
+.container0 li a { background-color: silver; border: 4px inset #999999; padding-left: 0px; margin-left: 0px;
+	display: block;}
+.container0 li a:hover {color: red; background-color: #FAFAD2;}
+.container {position: absolute; left: 112px; top: 20px; width: 700px; min-height: 700px;
+	background-color: #FAFAD2; padding: 10px; border: 8px outset #999999;}
+.container ul {list-style-type: none; padding: 0px; 
+	font-weight: bold; color: blue;}
+.container li { margin-bottom: 5px;}
+.container li a{background-color: silver; border: 4px inset #999999; padding-left: 10px; 
+	width: 200px; display: block;}
+.container li a:hover {color: red; background-color: #FAFAD2;}
+.containerB {position: absolute; left: 340px; top: 155px;}
+.containerA {position: absolute; left: 20x; top: 155px;}
+.container2 {position: absolute; left: 112px; top: 780px; width: 700px; min-height: 2000px;
+	background-color: #FAFAD2; padding: 10px; border: 8px outset #999999;} 

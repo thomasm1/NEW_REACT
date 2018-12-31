@@ -1,0 +1,108 @@
+{
+"_id" : ObjectId("5a6a2c901af05fd7d2767747"),
+"attributes" : [
+{
+"Type" : "Rain",
+"Volume" : "285000"
+},
+{
+"Type" : "Hail",
+"Volume" : "5000"
+},
+{
+"Type" : "Dew",
+"Volume" : "3000"
+},
+{
+"Type" : "Mist",
+"Volume" : "2000"
+},
+{
+"Type" : "Hydrogen",
+"Volume" : "300"
+},
+{                              
+"Type" : "Snow",
+"Volume" : "254"
+}
+]
+},
+{
+"_id" : ObjectId("5a6a33e31af05fd7d2767748"),
+"labels" : [
+"Hail",
+"Dew",
+"Rain",
+"Mist",
+"Hydrogen",
+"Snow"
+],
+"datasets" : [
+{
+"label" : "Rain",
+"backgroundColor" : "rgba(179,181,198.0.2)",
+"borderColor" : "rgba(0,0,249,0.7)",
+"pointBackgroundColor" : "blue",
+"pointBorderColor" : "#fff",
+"pointHoverBorderColor" : "rgba(179,181,198,.8)",
+"data" : [
+285000
+]
+},
+{
+"label" : "Hail",
+"backgroundColor" : "rgba(179,181,198.0.2)",
+"borderColor" : "rgba(0,0,249,0.7)",
+"pointBackgroundColor" : "blue",
+"pointBorderColor" : "#fff",
+"pointHoverBorderColor" : "rgba(179,181,198,.8)",
+"data" : [
+5000
+]
+},
+{
+"label" : "Mist",
+"backgroundColor" : "rgba(179,181,198.0.2)",
+"borderColor" : "rgba(0,0,249,0.7)",
+"pointBackgroundColor" : "blue",
+"pointBorderColor" : "#fff",
+"pointHoverBorderColor" : "rgba(179,181,198,.8)",
+"data" : [
+3000
+]
+},
+{
+"label" : "Mist",
+"backgroundColor" : "rgba(179,181,198.0.2)",
+"borderColor" : "rgba(0,0,249,0.7)",
+"pointBackgroundColor" : "blue",
+"pointBorderColor" : "#fff",
+"pointHoverBorderColor" : "rgba(179,181,198,.8)",
+"data" : [
+2000
+]
+},
+{
+"label" : "Hydrogen",
+"backgroundColor" : "rgba(179,181,198.0.2)",
+"borderColor" : "rgba(0,0,249,0.7)",
+"pointBackgroundColor" : "blue",
+"pointBorderColor" : "#fff",
+"pointHoverBorderColor" : "rgba(179,181,198,.8)",
+"data" : [
+300
+]
+},
+{
+"label" : "Snow",
+"backgroundColor" : "rgba(179,181,198.0.2)",
+"borderColor" : "rgba(0,0,249,0.7)",
+"pointBackgroundColor" : "blue",
+"pointBorderColor" : "#fff",
+"pointHoverBorderColor" : "rgba(179,181,198,.8)",
+"data" : [
+254
+]
+}
+]
+}
