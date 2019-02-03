@@ -1,0 +1,9 @@
+body {background-color: silver; 
+	font-family: verdana, geneva, arial, helvetica, sans-serif; }
+h1 {text-align: right; font-size: 1.8em; 
+	background-color: gray; letter-spacing: 5px; 
+	border-width: thin; border-style: solid; }
+h2 {font-size: 1.5em; font-style: italic; }
+p {text-align: justify; margin-left: 25px; }
+ul, ol {font-family: "ms sans serif", geneva, sans-serif; font-style: italic; }
+table {background-color: #cc9966; border-width: thin; border-style: dotted; }
