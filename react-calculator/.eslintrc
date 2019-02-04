@@ -1,6 +1,6 @@
 {
     "rules": {
-        "react/display-name": [2],
+        "react/display-name": [2]
       },
       "parserOptions": {
         "sourceType": "module",
@@ -9,6 +9,6 @@
         }
       },
       "plugins": [
-        "react",
+        "react"
       ]
 }
