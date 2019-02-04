@@ -1,0 +1,303 @@
+* {margin:0;padding:0;}
+body {
+	font-family:baskerville,times-roman;
+	font-size:14px;
+	background:lightblue;
+	color: blue;
+}
+
+#wrap {
+	max-width:960px;
+	min-width:700px;
+	height:1000px;
+	background:azure;
+	margin-left:auto;
+	margin-right:auto;
+	padding:20px; 
+}
+
+header {
+height:80px;
+text-align:center;
+padding:15px;
+}
+
+.rightcol {
+float:left;
+	width: 50%;
+	color: blue;
+	height:auto;
+
+
+}
+.leftcol {
+	background-color: navy-blue;
+	float:left;
+	color: blue;
+	height: auto;
+	width: 50%;
+}
+
+
+
+form.style_form1 {
+width:14em;
+margin:20px auto;
+border:5px outset blue;
+padding:.5em .5em .15em;
+}
+.style_form1 h3 {
+margin:0;
+padding:0 0 .2em .2em;
+font-weight:600;
+color:blue;
+}
+.style_form1 fieldset {
+margin:0;
+padding:0 0 .2em 0;
+width:100%;
+border:0;
+}
+.style_form1 legend{
+width:100%;
+padding:.3em 0;
+background:blue;
+}
+.style_form1 legend span{
+display:block;
+font-size:1em;
+line-height:1.1em;
+padding:0 0 0 .4em;
+}
+.style_form1 section {
+overflow:hidden;
+padding:.2em 0 .4em 0;
+border-bottom:8px inset blue;
+}
+.style_form1 section:last-child {
+border-bottom:0px;
+}
+.style_form1 section label, 
+.style_form1 section h4 {
+display:block;
+clear:both;
+margin:.3em .3em 0 0;
+padding-bottom:.1em;
+font-size:.8em;
+font-family:"Droid Sans";
+font-weight:400;
+line-height:1.1;
+}
+.style_form1 section label span,
+.style_form1 section h4 span {
+font-size:.75em;
+vertical-align:text-top;
+color:#f00;
+}
+.style_form1 section p.note{
+font-size:.7em;
+color:#f00;
+margin:0;
+padding:0 0 .3em 0;
+}
+.style_form1 section input,
+.style_form1 section textarea,
+.style_form1 section select {
+margin:.2em .5em .2em 0;
+padding:.2em .4em;
+color:#000;
+box-shadow:1px 1px 3px #ccc;
+font-size:.8em;
+font-family:inherit;
+outline:none;
+}
+.style_form1 section input,
+.style_form1 section textarea {
+width:12em;
+border:1px solid #bbb7ae;
+border-radius:3px;
+}
+.style_form1 section textarea {
+height:5em;
+margin-top:.3em;
+line-height:1.1;
+}
+.style_form1 section p {
+margin:.3em .75em 0;
+clear:both;
+font-size:.7em;
+line-height:1.1;
+color:#000;
+}
+.style_form1 section p.error {
+color:#f00;
+}
+.style_form1 section section {
+overflow:hidden;
+margin:.2em 0 .3em .4em;
+padding:0 0 .1em 0;
+border-bottom:none;
+}
+.style_form1 section section input {
+float:left;
+clear:both;
+width:auto;
+margin:.1em 0 0 .3em;
+}
+.style_form1 section section label {
+float:left;
+clear:none;
+width:15em;
+margin:.15em 0 0 .6em;
+font-size:.7em;
+font-weight:normal;
+line-height:1.2;
+}
+.style_form1 section select{
+margin-left:.4em;
+font-size:.85em;
+}
+.style_form1 section input[type="submit"]{
+width:auto;
+margin:.4em .3em 0 0;
+font-size:1em;
+font-weight:800;
+color:#fff;
+background-color:blue;
+cursor:pointer;
+}
+.style_form1 > section:last-child {
+text-align:center;
+}
+
+
+
+form.style_form1.labels_left{
+width:22em;
+}
+form.style_form1.labels_left label,
+form.style_form1.labels_left h4 {
+float:left;
+width:8em;
+}
+form.style_form1.labels_left p {
+margin:0 0 0 9.35em;
+padding:.3em 0 0 0;
+clear:both;
+}
+form.style_form1.labels_left p.note {
+margin:0 0 .2em 0;
+}
+form.style_form1.labels_left section section {
+width:10em;
+margin-left:6.5em;
+padding-top:0;
+}
+form.style_form1.labels_left section section input{
+width:1.25em;
+margin-left:0;
+}
+.style_form1.labels_left section input,
+.style_form1.labels_left section textarea,
+.style_form1.labels_left section select {
+float:left;
+width:12em;
+}
+.style_form1.labels_left section select{
+margin-left:.2em;
+}
+.style_form1.labels_left > section input[type=submit]{
+float:none;
+}
+
+.headermenu {
+
+font:1.2em georgia;
+}
+.headermenu a {
+display:block;
+color:#555;
+background-color:#eee;
+padding:.5em 1em;
+border-width:3px 0;
+border-color:transparent;
+}
+.headermenu a:hover {
+color:#fff;
+background-color:#aaa;
+}
+.headermenu a:active {
+background:#fff;
+color:#ccc;
+}
+.headermenu * {margin:0; padding:0;}
+.headermenu ul {float:left;
+width:100%;
+margin:0 auto;
+background-color:#eee;
+}
+.headermenu li {
+float:left;
+list-style-type:none;
+position:relative;
+}
+.headermenu li a {
+display:block;
+border-right-style:solid;
+background-clip:padding-box;
+text-decoration:none;
+
+}
+.headermenu li:last-child a {
+border-right-style:none;}
+.headermenu li ul {
+display:none;}
+
+/*visual */
+.headermenu li ul { 
+width:9em;
+background-color:blue;
+}
+.headermenu li li a {
+border-right-style: none;
+border-top-style:solid;
+}
+/*functional addition */
+.headermenu li ul {
+display:block;
+position:absolute;
+left:0;
+top:100%;
+}
+.headermenu li li {
+float:none;
+}
+.headermenu li li ul {
+display:none;
+}
+
+/*      */
+.headermenu li ul {
+display:none;
+position:absolute;
+left:0;
+top:100%;
+}
+.headermenu li:hover > ul {
+display:block;
+}
+li ul {
+display:none;
+}
+li:hover > ul {
+display:block;
+}
+.headermenu li li ul {
+position:absolute;
+left:100%;
+top:0;
+}
+.headermenu li:hover > a {
+color:#fff;
+background-color:#aaa;
+}

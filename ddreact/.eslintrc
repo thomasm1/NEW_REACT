@@ -1,0 +1,14 @@
+{
+    "rules": {
+        "react/display-name": [2]
+      },
+      "parserOptions": {
+        "sourceType": "module",
+        "ecmaFeatures": {
+          "jsx": true
+        }
+      },
+      "plugins": [
+        "react"
+      ]
+}

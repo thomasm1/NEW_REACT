@@ -1,0 +1,22 @@
+body {
+font-family: arial, verdana, helvetica, sans-serif;
+font-size: small;
+}
+h1 {
+font-size: 2.5em;
+color: rgb(200,140,20);
+font-variant: small-caps;
+}
+h2 {
+font-size: 1.8em;
+}
+h3 {
+font-size: 1.5em;
+}
+.important {
+font-weight:bold;
+font-style:italic;
+font-size:1.1em;
+font-family: arial, verdana, helvetica;
+}
+

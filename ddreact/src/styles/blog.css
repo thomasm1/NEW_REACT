@@ -1,0 +1,10 @@
+
+.blog {
+    min-height:500px;
+    background-color:rgba(50, 160, 197, 0.322);
+  }
+
+h1,h2,h3,h4,h5,h6 {
+    text-align:center;
+    padding:10px;
+}

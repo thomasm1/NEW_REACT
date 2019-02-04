@@ -1,0 +1,15 @@
+Footer {
+    background-color: rgba(0,0,200,.5);
+    background-image: url('../img/MaestasReykjavikBanner.png'); 
+
+}
+
+.links a {
+
+}
+.links:hover { 
+font-size:110%;
+}
+.thomasat {
+    font-size:1.3rem;
+}
