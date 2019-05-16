@@ -1,0 +1,333 @@
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{font-size:100%;font-family:Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";padding:0;border:0;margin:0;vertical-align:baseline}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}.clear{clear:both}
+.sticky{}.bypostauthor{}.wp-caption{}.wp-caption-text{}.gallery-caption{}.alignright{}.alignleft{}.aligncenter{}.screen-reader-text{clip:rect(1px, 1px, 1px, 1px);position:absolute !important}
+
+
+/* This code is only meant for previewing your Reflow design. */
+body {
+	background-color: rgb(220, 220, 220);
+}
+
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#main-box {
+    float: none;
+    height: auto;
+    margin: 0px auto;
+    clear: none;
+    width: 1600px;
+    min-height: 2000px;
+	background: #fff;box-shadow: rgb(120,120,120) 0px 0px 4px 0px;
+}
+
+#menu-box, .full-width-divider, #lead-box, #page-content {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: none;
+    width: 100%;
+    min-width: 0px;
+    min-height: 50px;
+}
+#branding-box{
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: none;
+    width: 100%;
+    min-width: 0px;
+    min-height: 100px;
+}
+#branding-box .logo{
+	margin-top:50px;
+	float: left;
+}
+
+#menu-box {
+	background-color: rgb(200, 200, 200);
+}
+
+/*kill wp base temp stuff*/
+div#search{
+	display:none;
+}
+header.header{
+	display:none;
+}
+
+footer#footer{display:none;}
+/*************************/
+
+#lead-box {
+	background-color: rgb(240, 240, 240);
+}
+
+#lead-left {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: none;
+    width: 50%;
+	padding: 20px;
+    min-height: 100px;
+}
+
+#lead-right {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: none;
+    width: 50%;
+	padding: 20px;
+    min-height: 100px;
+	text-align: right;
+}
+
+.content-100-100 {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: both;
+    width: 100%;
+    min-height: 200px;
+    padding: 20px 0px 20px 20px;
+}
+
+.content-70-100 {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: both;
+    width: 70%;
+    min-height: 200px;
+    padding: 20px 0px 20px 20px;
+}
+
+.content-30-100 {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: none;
+    width: 30%;
+    min-height: 800px;
+    background-color: rgb(215, 220, 230);
+    padding: 20px 0px 20px 20px;
+}
+
+.content-box-header-text {
+    float: left;
+    font-size: 1.2em;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 300;
+    line-height: 1.1em;
+    margin: 0px 0px 20px;
+    clear: none;
+    min-height: 20px;
+    min-width: 0px;
+    text-transform: uppercase;
+    padding-right: 20px;
+}
+
+.plate-container-multiple {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: all;
+    min-height: 50px;
+    padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+.content-70-100 .plate-container-multiple {
+	width: 33.3%;
+}
+
+.content-30-100 .plate-container-multiple {
+	width: 100%;
+}
+
+.plate-container-single {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: both;
+    width: 100%;
+    min-width: 0px;
+    min-height: 200px;
+    padding-right: 20px;
+}
+
+.plate-rounded {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: none;
+    width: 100%;
+    min-width: 0px;
+    min-height: 100px;
+	padding: 20px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    background-color: rgb(248, 248, 248);
+    box-shadow: rgb(120,120,120) 0px 0px 4px 0px;
+}
+
+.plate-plain {
+    float: left;
+    height: auto;
+    margin: 0px;
+    clear: none;
+    width: 100%;
+    min-width: 0px;
+    min-height: 100px;
+}
+
+.plate-rounded p.header,.plate-plain p.header {
+    float: left;
+    font-size: .8em;
+    width: 100%;
+    height: auto;
+	color:darkgrey;
+    text-align: center;
+    font-weight: 900;
+    line-height: 1.1em;
+    clear: none;
+    min-height: 10px;
+    min-width: 0px;
+    text-transform: uppercase;
+	margin-bottom:10px;
+}
+.plate-rounded p.description,.plate-plain p.header {
+    float: left;
+    font-size: 1em;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 300;
+    line-height: 1.1em;
+    clear: none;
+    min-height: 10px;
+    min-width: 0px;
+	margin-bottom:10px;
+    /*text-transform: uppercase;*/
+}
+.plate-rounded p.big,.plate-plain p.header {
+    float: left;
+    font-size: 2.5em;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 300;
+    line-height: 1.1em;
+    clear: none;
+    min-height: 10px;
+    min-width: 0px;
+	margin-bottom:10px;
+    /*text-transform: uppercase;*/
+}
+
+@media only screen and (max-width: 1550px) {
+    
+.content-70-100, .content-30-100 {
+        width: 100%;
+    }
+	.content-30-100 {
+        min-height: 100px;
+    }	
+	.content-30-100 .plate-container-multiple {
+	width: 25%;
+	}
+
+    #main-box {
+        width: 1200px;
+    }
+}
+
+p.big {
+	font-size: 1.8em;
+	line-height: 1.3em;
+}
+
+/************************************************************************/
+/*menu*/
+/************************************************************************/
+	
+ul.links {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	font-size:10px;
+}
+
+ul.links li {
+	float: left;
+}
+
+ul.links li a {
+	color: #4CAF50;
+}
+
+ul.links a:hover {
+	color: #c60;
+}
+
+.current-menu-item {
+    background-color: rgb(240, 240, 240);
+    color: black;
+}
+
+/*addons*/
+/*menu*/
+ul#menu-dash2menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul#menu-dash2menu li {
+    float: left;
+}
+
+ul#menu-dash2menu li a {
+height:100px;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 40px 16px;
+    text-decoration: none;
+}
+
+ul#menu-dash2menu li a:hover {
+background-color: rgb(215, 220, 230);
+}
+
+.current-menu-item {
+    background-color: rgb(240, 240, 240);
+    color: black;
+}
+
+a.underline{
+	text-decoration:underline;
+	cursor:pointer;
+}
+a.underline:hover{
+        text-decoration:underline;
+        cursor:pointer;
+	color:#900;
+}
+
+.tick text {
+font-size:1.2em;
+}
+

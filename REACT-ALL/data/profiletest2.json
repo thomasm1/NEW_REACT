@@ -1,0 +1,85 @@
+{
+    "items":[
+        { 
+            "uid" : "gvbJY4IxScvPi5wI3dbz",
+            "units" : "13000",
+            "units_type" : "LEI",
+            "producer" : "Carbon Creek Energy",
+            "trans_date" : "2018-01-02",
+            "prod_date" : "2017-12-26",
+            "status" : "Retired"
+        },
+        { 
+            "uid" : "zdf7pXL1hALGA8WSfBp3",
+            "units" : "12000",
+            "units_type" : "LEI",
+            "producer" : "Carbon Creek Energy",
+            "trans_date" : "2018-01-02",
+            "prod_date" : "2017-12-26",
+            "status" : "Retired"
+        },
+        { 
+            "uid" : "COQ0yIAz5Su9oBLoio0p",
+            "units" : "9000",
+            "units_type" : "LEI",
+            "producer" : "Carbon Creek Energy",
+            "trans_date" : "2018-01-02",
+            "prod_date" : "2017-12-26",
+            "status" : "Retired"
+        },
+        { 
+            "uid" : "zAfh4zTwqxLaue7HOGEF",
+            "units" : "11000",
+            "units_type" : "LEI",
+            "producer" : "Carbon Creek Energy",
+            "trans_date" : "2018-01-02",
+            "prod_date" : "2017-12-26",
+            "status" : "Retired"
+        },
+        { 
+            "uid" : "FDR7LTc1XRCu77jjiomL",
+            "units" : "8000",
+            "units_type" : "LEI",
+            "producer" : "Carbon Creek Energy",
+            "trans_date" : "2018-01-02",
+            "prod_date" : "2017-12-26",
+            "status" : "Retired"
+        },
+        { 
+            "uid" : "UTyvELBkUDoLQnqb5i4E",
+            "units" : "7000",
+            "units_type" : "LEI",
+            "producer" : "Carbon Creek Energy",
+            "trans_date" : "2018-01-02",
+            "prod_date" : "2017-12-26",
+            "status" : "Retired"
+        },
+        { 
+            "uid" : "f55xIy9MTbBDlH43sgIs",
+            "units" : "6000",
+            "units_type" : "LEI",
+            "producer" : "Carbon Creek Energy",
+            "trans_date" : "2018-01-02",
+            "prod_date" : "2017-12-26",
+            "status" : "Retired"
+        },
+        { 
+            "uid" : "i0L5JoWH7LrFQuWwAO3W",
+            "units" : "8000",
+            "units_type" : "LEI",
+            "producer" : "Carbon Creek Energy",
+            "trans_date" : "2018-01-02",
+            "prod_date" : "2017-12-26",
+            "status" : "Retired"
+        },
+        { 
+            "uid" : "iBsCKFIL8TwchtUNiFar",
+            "units" : "12000",
+            "units_type" : "LEI",
+            "producer" : "Carbon Creek Energy",
+            "trans_date" : "2018-01-02",
+            "prod_date" : "2017-12-26",
+            "status" : "Retired"
+        }
+    ]
+}

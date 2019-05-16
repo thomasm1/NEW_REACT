@@ -1,0 +1,18 @@
+{
+  "offering_transactions": [
+    {
+      "id": 1,
+      "name": "Carbon Creek LEI (FracFree) Gas Dec 2017 Vintage",
+      "producer_id": 2,
+      "sha2_hash": "V5ZURBXvfgIYqB\/LjzUkDQyAA+BIDSsGTrNcZeMeq5c=",
+      "unit_type": "MCF",
+      "unit_description": "Thousand Cubic Feet",
+      "display_name": "Carbon Creek LEI (FracFree) Gas Dec 2017 Vintage",
+      "description": "\"FracFree Natural Gas\u201d means natural gas sourced from a well that does not involve either one of the following: \n\t1) any process that exceeds fracture parting pressure of a subsurface formation and\/or \n\t2) any injection of water, chemicals and proppant at high pressure to achieve placement of proppant into subsurface formation",
+      "status": "Active",
+      "created_ts": "2017-12-28T17:40:14.650",
+      "updated_ts": "2017-12-28T17:40:14.650",
+      "rowversion": 0
+    }
+  ]
+}

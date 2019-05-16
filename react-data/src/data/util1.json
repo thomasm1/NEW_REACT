@@ -1,0 +1,16 @@
+{
+	"items":[
+		{
+			"average_kwh":"1333.60",
+			"average_charge":"202.16",
+			"highest_kwh_month":"August 2016",
+			"highest_kwh":"2054.00",
+			"lowest_kwh_month":"September 2017",
+			"lowest_kwh":"554.00",
+			"highest_charge_month":"August 2016",
+			"highest_charge":"335.65",
+			"lowest_charge_month":"September 2017",
+			"lowest_charge":"76.80"
+		}
+	]
+}

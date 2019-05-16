@@ -1,0 +1,21 @@
+{
+"RECORDS":[
+	"Transactions":[
+		{"Transaction":[
+			{"customer_id":1,"account_name":"Xpansiv Data Issuance","offering_name":"Carbon Creek LEI Gas","production_date":"2017-12-26T00:00:00","transaction_date":"2017-12-26T00:00:00","production_event_sig":"Iho67DqDU6EnUmbQP3ABScpiZ6swJQN5yNWJn9iU65I=","transaction_event_sig":"siqFFNClF2f0jzhsst25PG/FJV2Ou+AxqSSBytectA4=","units":"MCF","unit_description":"Thousand Cubic Feet","transaction_amount":-13456.00000},
+			{"customer_id":2,"account_name":"Carbon Creek Energy Holding","offering_name":"Carbon Creek LEI Gas","production_date":"2017-12-26T00:00:00","transaction_date":"2017-12-26T00:00:00","production_event_sig":"Iho67DqDU6EnUmbQP3ABScpiZ6swJQN5yNWJn9iU65I=","transaction_event_sig":"siqFFNClF2f0jzhsst25PG/FJV2Ou+AxqSSBytectA4=","units":"MCF","unit_description":"Thousand Cubic Feet","transaction_amount":13456.00000}
+		]},
+		{"Transaction":[
+			{"customer_id":2,"account_name":"Carbon Creek Energy Holding","offering_name":"Carbon Creek LEI Gas","production_date":"2017-12-26T00:00:00","transaction_date":"2017-12-26T00:00:00","production_event_sig":"Iho67DqDU6EnUmbQP3ABScpiZ6swJQN5yNWJn9iU65I=","transaction_event_sig":"siqFFNClF2f0jzhsst25PG/FJV2Ou+AxqSSBytectA4=","units":"MCF","unit_description":"Thousand Cubic Feet","transaction_amount":13456.00000},
+			{"customer_id":2,"account_name":"Carbon Creek Energy Trading","offering_name":"Carbon Creek LEI Gas","production_date":"2017-12-26T00:00:00","transaction_date":"2018-01-02T00:00:00","production_event_sig":"Iho67DqDU6EnUmbQP3ABScpiZ6swJQN5yNWJn9iU65I=","transaction_event_sig":"7DzGi32i0O8IvqQVL4qMCs5X159K5Ok19kpeMmFcvqE=","units":"MCF","unit_description":"Thousand Cubic Feet","transaction_amount":-13456.00000}
+		]},
+		{"Transaction":[
+			{"customer_id":2,"account_name":"Carbon Creek Energy Trading","offering_name":"Carbon Creek LEI Gas","production_date":"2017-12-26T00:00:00","transaction_date":"2018-01-02T00:00:00","production_event_sig":"Iho67DqDU6EnUmbQP3ABScpiZ6swJQN5yNWJn9iU65I=","transaction_event_sig":"7DzGi32i0O8IvqQVL4qMCs5X159K5Ok19kpeMmFcvqE=","units":"MCF","unit_description":"Thousand Cubic Feet","transaction_amount":-13456.00000},
+			{"customer_id":3,"account_name":"Mom's Organic Market Holding","offering_name":"Carbon Creek LEI Gas","production_date":"2017-12-26T00:00:00","transaction_date":"2018-01-02T00:00:00","production_event_sig":"Iho67DqDU6EnUmbQP3ABScpiZ6swJQN5yNWJn9iU65I=","transaction_event_sig":"7DzGi32i0O8IvqQVL4qMCs5X159K5Ok19kpeMmFcvqE=","units":"MCF","unit_description":"Thousand Cubic Feet","transaction_amount":13456.00000}
+		]},
+		{"Transaction":[
+			{"customer_id":3,"account_name":"Mom's Organic Market Retired","offering_name":"Carbon Creek LEI Gas","production_date":"2017-12-26T00:00:00","transaction_date":"2018-01-02T00:00:00","production_event_sig":"Iho67DqDU6EnUmbQP3ABScpiZ6swJQN5yNWJn9iU65I=","transaction_event_sig":"7DzGi32i0O8IvqQVL4qMCs5X159K5Ok19kpeMmFcvqE=","units":"MCF","unit_description":"Thousand Cubic Feet","transaction_amount":13456.00000}
+		]}
+	]
+]
+}

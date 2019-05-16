@@ -1,0 +1,26 @@
+.title {text-align: center;
+font-size:125%;
+}
+.author {font-size:125%;
+text-align:center;
+border-bottom:1px solid black;
+padding-bottom:12pt;
+margin-left:30pt;
+margin-right:30pt;
+}
+h1.chapternumber {margin-left:30pt;
+font-family:sans-serif;
+color:gray;
+}
+h1.chaptertitle {margin-left:30pt;
+}
+p {margin-left:30pt;
+margin-right:30pt;
+font-size:125%;
+}
+p.firstparagraph::first-letter {font-size:200%;
+font-weight:bold;
+border:solid thin black;
+padding:4pt;
+margin:2pt
+}
