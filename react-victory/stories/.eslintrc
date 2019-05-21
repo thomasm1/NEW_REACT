@@ -1,0 +1,7 @@
+{
+  "extends": ["formidable/configurations/es6-react", "prettier"],
+  "rules": {
+    "no-magic-numbers": 0,
+    "import/no-unresolved": 0
+  }
+}
