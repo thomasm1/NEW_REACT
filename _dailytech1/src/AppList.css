@@ -1,0 +1,94 @@
+  p,h1,h2,h3,h4,h5,h6,label {
+    color:'white'
+  }
+   
+  .appapi  {  
+    padding:1.5rem;
+    background-color:rgba(0, 247, 255, 0.5);
+    color:white; 
+    };
+  div label {
+    color:white;
+  }
+  form label{
+    color:white;
+    padding:1.5rem;
+  }
+  .submit {
+	  color:blue;
+  }
+  form {
+	  background-color:darkblue;
+	  padding:10px;
+  }
+  .Projects {
+	   background-color: rgba(0, 247, 255, 0.5); 
+    padding:1.5rem;
+  }
+  .index {
+	  background-color:darkblue;
+	  padding:10px;
+  }
+  .category {
+	  background-image: url("img/bluechipTile.jpg");
+	  padding:3px;
+	  padding-right:10px; 
+	  min-width:60px;
+  }
+  .addpost {
+	  margin:0px;
+	  padding:0px;
+  }
+  .apiPosts {
+  }
+  .Todos {
+ 
+  } 
+  .users { 
+  background-color:'darkblue'; 
+  padding:'10px'; 
+ 
+  }
+/////////////////////////
+button {
+	  background-image: url("img/bluechipTile.jpg");
+}
+.subtract {
+	max-height:15px;  
+	 background-image: url("img/bluechipTile.jpg");
+}
+.add {
+	max-height:20px;
+	background-color: red;
+}
+.AppUser {
+  text-align: left;
+  background-color: rgba(0, 247, 255, 0.5);
+  padding:20px;  
+
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+ 
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
