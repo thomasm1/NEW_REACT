@@ -1,4 +1,4 @@
-import React, { Componenet } from 'react';
+import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 //import './CoinTracker.css';
 
@@ -25,9 +25,9 @@ export class CoinTracker extends Component {
         return (
             <div style={this.getTrackerStyle()}>
                 <p>
-                    <input type="checkbox" onChange={this.props.trackThis.bind(this, id)} /> {' '}
+                    <input type="checkbox"  onChange={this.props.trackThis.bind(this, id)} /> {' '}
                     {symbol}
-                    <button onClick={this.props.delCoin} style={btnStyle}> x </button>
+                    <button onClick={this.props.delCoin.bind(this, id)} style={btnStyle}> x </button>
                     </p>
             </div>
         );
