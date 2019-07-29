@@ -5,7 +5,7 @@ import './Trackers.css';
 
 class Trackers extends Component { 
     render() {
-        return this.props.trackers.map((tracker) => (
+        return this.props.trackers.slice(0).reverse().map((tracker) => (
             <CoinTracker 
             key={tracker.id} 
             tracker={tracker} 

@@ -11,22 +11,22 @@ export class CoinTracker extends Component {
             border: this.props.tracker.netPositive ? 'solid 1px green' : 'solid 1px red', 
             backgroundColor: this.props.tracker.tracking ? 'rgba(141, 213, 236, 0.5)' : 'rgba(119, 136, 153, 0.5)'
         }
+    } 
+    getTrackerChecked = () => {
+        return this.props.tracker.tracking?true:false;
     }
    //1 trackThis(e) {
-
-    //2 trackThis = (e) => {
-    //     console.log(this.props)
-    // }
+    //2 trackThis = (e) => {  console.log(this.props)}
 
     render() {
 
-        const { id, symbol } = this.props.tracker;
+        const { id, title, symbol } = this.props.tracker;
 
         return (
             <div style={this.getTrackerStyle()}>
                 <p>
-                    <input type="checkbox"  onChange={this.props.trackThis.bind(this, id)} /> {' '}
-                    {symbol}
+                    <input type="checkbox"  defaultChecked={this.getTrackerChecked()} onChange={this.props.trackThis.bind(this, id)} /> {' '}
+                    {symbol}  {title} 
                     <button onClick={this.props.delCoin.bind(this, id)} style={btnStyle}> x </button>
                     </p>
             </div>

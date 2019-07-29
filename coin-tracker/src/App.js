@@ -12,11 +12,12 @@ import './App.css';
 class App extends Component {
 
   state = {
-    trackers: 
+    trackersZero: 
     [
       {
         id: uuid.v4(),
         symbol: 'BTC',
+        title: 'Bitcoin',
         date: '2019-07-04',
         open: 9000,
         close: 9898,
@@ -28,6 +29,7 @@ class App extends Component {
       {
         id: uuid.v4(),
         symbol: 'ETH',
+        title: 'Ethereum',
         date: '2019-07-04',
         open: 220.8,
         close: 219.0,
@@ -39,6 +41,7 @@ class App extends Component {
       {
         id: uuid.v4(),
         symbol: 'XRP',
+        title: 'Ripple',
         date: '2019-07-04',
         open: .311,
         close: .310,
@@ -47,18 +50,19 @@ class App extends Component {
         netPositive: false,
         tracking: true
       }
-    ]
+    ],
+    trackers: []
   };
-  // componentDidMount() {
-  //   axios
-	// 		.get('https://jsonplaceholder.typicode.com/todos?_limit=10')
-  //     .then((res) =>
-  //      this.setState({ trackers: res.data })
-  //      );
-  // }
+  componentDidMount() {
+    axios
+			.get('https://jsonplaceholder.typicode.com/todos?_limit=10')
+      .then((res) =>
+       this.setState({ trackers: res.data })
+       );
+  }  
   //Track/Not Track
   trackThis = (id) => {
-   // console.log(id + ' tracked! ..from App.js');
+   console.log(id + ' tracked! ..from App.js');
     this.setState({
       trackers: this.state.trackers.map(tracker => {
         if (tracker.id === id) {
@@ -71,35 +75,36 @@ class App extends Component {
 
   // Delete Coin (Tracking)
   delCoin = (id) => { 
-    // axios 
-    // .delete(`https://jsonplaceholder.typicode.com/todos/${id}`)
-    // .then((res) =>
+    axios 
+    .delete(`https://jsonplaceholder.typicode.com/todos/${id}`)
+    .then((res) =>
     this.setState({ trackers: [...this.state.trackers.filter(tracker => tracker.id !== id)] 
-   });
+   })
+   ); 
      console.log('delcoin' + id);
-  //  ); 
   };
   // Add New Coin Type (not default tracking)
-  addCoin = (symbol) => {
+  addCoin = (title) => {
     const newCoin = {
       id: uuid.v4(),
-      symbol: symbol,
+      title: title,
+      symbol: '',
       tracking: false
     }
-    console.log(symbol);
-    // axios
-		// 	.post('https://jsonplaceholder.typicode.com/todos', {
-		// 		title,
-		// 		completed: false
-		// 	})
-		// 	.then((res) => {
-		// 		res.data.id = uuid.v4(); 
+    console.log(title + ': title');
+    axios
+			.post('https://jsonplaceholder.typicode.com/todos', {
+				title,
+				completed: false
+			})
+			.then((res) => {
+				res.data.id = uuid.v4(); 
     this.setState({ trackers: [...this.state.trackers, newCoin]   });
-    //  });
+     });
   };
 
   render() {
-    // console.log(this.state.trackers)
+    console.log(this.state.trackers)
     return (
       <div className="App">
         <div className="Container">
