@@ -26,7 +26,9 @@ export class CoinTracker extends Component {
             <div style={this.getTrackerStyle()}>
                 <p>
                     <input type="checkbox" onChange={this.props.trackThis.bind(this, id)} /> {' '}
-                    {symbol}</p>
+                    {symbol}
+                    <button onClick={this.props.delCoin} style={btnStyle}> x </button>
+                    </p>
             </div>
         );
     }
@@ -34,6 +36,15 @@ export class CoinTracker extends Component {
 
 CoinTracker.propTypes = {
     tracker: PropTypes.object.isRequired
+}
+
+const btnStyle= {
+    background: '#ff0000',
+    color: '#fff',
+    border: 'none',
+    padding: '5px 10px', 
+    cursor: 'pointer',
+    float: 'right'
 }
 
 //1  <input type="checkbox" onChange={this.trackThis.bind(this)} /> {' '}

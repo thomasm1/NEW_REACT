@@ -7,7 +7,7 @@ class Trackers extends Component {
 
     render() {
         return this.props.trackers.map((tracker) => (
-            <CoinTracker key={tracker.id} tracker={tracker} trackThis={this.props.trackThis} />
+            <CoinTracker key={tracker.id} tracker={tracker} trackThis={this.props.trackThis} delCoin={this.props.delCoin} />
         ));     
     }
 }
