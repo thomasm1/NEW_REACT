@@ -26,7 +26,7 @@ export class CoinTracker extends Component {
             <div style={this.getTrackerStyle()}>
                 <p>
                     <input type="checkbox"  defaultChecked={this.getTrackerChecked()} onChange={this.props.trackThis.bind(this, id)} /> {' '}
-                    {symbol}  {title} 
+                    {symbol} {title} 
                     <button onClick={this.props.delCoin.bind(this, id)} style={btnStyle}> x </button>
                     </p>
             </div>
