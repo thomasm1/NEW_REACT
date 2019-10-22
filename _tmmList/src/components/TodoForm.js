@@ -1,4 +1,4 @@
-var React = require('react');
+const React = require('react');
 
 class TodoForm extends React.Component {
   constructor(props) {
@@ -9,7 +9,7 @@ class TodoForm extends React.Component {
   }
   handleFormSubmit(evt) {
     evt.preventDefault();
-    var todo = this.inputRef.value;
+    let todo = this.inputRef.value;
     this.props.onNewTodoItem(todo);
     this.inputRef.value = '';
   }
@@ -20,6 +20,7 @@ class TodoForm extends React.Component {
     return (
       <form className="form-group" onSubmit={this.handleFormSubmit}>
         <input type="text" className="form-control" placeholder="Add Todo Item" ref={this.handleRefInputEvt}/>
+      
       </form>
     );
   }

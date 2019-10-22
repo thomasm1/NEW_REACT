@@ -1,7 +1,8 @@
-var React = require('react');
-var TodoForm = require('./TodoForm');
-var TodoList = require('./TodoList');
-var TodosCount = require('./TodosCount');
+import React, { useState } from 'react';
+import TodoForm from './TodoForm';
+import TodoList from './TodoList';
+import TodosCount from './TodosCount';
+ 
 
 class Todo extends React.Component {
   constructor(props) {
@@ -11,10 +12,16 @@ class Todo extends React.Component {
     };
     this.handleNewTodoItem = this.handleNewTodoItem.bind(this);
     this.handleDeleteBtnClick = this.handleDeleteBtnClick.bind(this);
+
+    //const [list, setList] = useState([
+    //   {id: 1, text: "Bitcoin" },
+    //   {id: 2, text: "Litecoin" },
+      
+    // ])
   }
   handleNewTodoItem(todo) {
     this.setState(function(prevState) {
-      var todos = prevState.todos.concat(todo);
+      let todos = prevState.todos.concat(todo);
 
       return {
         todos: todos
@@ -22,9 +29,9 @@ class Todo extends React.Component {
     });
   }
   handleDeleteBtnClick(evt) {
-    var index = Number(evt.target.value);
+    let index = Number(evt.target.value);
     this.setState(function(prevState) {
-      var todos = prevState.todos;
+      let { todos } = prevState;
       // todos.splice(index, 1);  // Prefer NOT to mutate the state object
       todos = todos.slice(0, index).concat(todos.slice(index + 1));
 
@@ -34,13 +41,13 @@ class Todo extends React.Component {
     });
   }
   render() {
-    var todos = this.state.todos;
+    let { todos, handleNewTodoItem, handleDeleteBtnClick } = this.state;
     return (
       <div>
-        <TodoForm onNewTodoItem={this.handleNewTodoItem} />
+        <TodoForm onNewTodoItem={handleNewTodoItem} />
         <TodoList
           todos={todos}
-          onDeleteBtnClick={this.handleDeleteBtnClick}
+          onDeleteBtnClick={handleDeleteBtnClick}
         />
         <TodosCount todosCount={todos.length} />
       </div>

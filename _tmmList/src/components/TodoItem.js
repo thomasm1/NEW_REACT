@@ -1,14 +1,16 @@
-var React = require('react');
+const React = require('react');
 
-var TodoItem = function(props) {
+const TodoItem = function(props) {
+  let { todo, onDeleteBtnClick, index } = props;
+
   return (
     <li className="list-group-item">
       <h3>
-        {props.todo}
+        {todo}
         <button
           className="btn btn-default btn-danger pull-right"
-          onClick={props.onDeleteBtnClick}
-          value={props.index}
+          onClick={onDeleteBtnClick}
+          value={index}
         >
           Delete
         </button>

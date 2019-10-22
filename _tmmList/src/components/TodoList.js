@@ -1,11 +1,12 @@
-var React = require('react');
-var TodoItem = require('./TodoItem');
+const React = require('react');
+const TodoItem = require('./TodoItem');
 
-var TodoList = function(props) {
-  var todoList = [];
-  var todos = props.todos;
-  for (var i = 0; i < todos.length; ++i) {
-    todoList.push(<TodoItem todo={todos[i]} index={i} onDeleteBtnClick={props.onDeleteBtnClick} />);
+const TodoList = function(props) {
+  let todoList = [];
+  let { todos, onDeleteBtnClick }  = props;
+ 
+  for (let i = 0; i < todos.length; ++i) {
+    todoList.push(<TodoItem todo={todos[i]} index={i} onDeleteBtnClick={onDeleteBtnClick} />);
   }
 
   return (

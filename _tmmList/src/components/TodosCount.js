@@ -1,10 +1,12 @@
-var React = require('react');
+const React = require('react');
 
-var TodosCount = function(props) {
+const TodosCount = function(props) {
+  let { todosCount } = props;
+
   return (
     <div className="well well-sm">
-      <h4>Total Todos: {props.todosCount}</h4>
-    </div>
+      <h4>Total Todos: {todosCount}</h4>
+    </div> 
   );
 };
 
